@@ -45,7 +45,7 @@ const Footer = () => {
               <h1 className="text-xl font-semibold">Support</h1>
               <ul className="text-sm space-y-4">
                 <li>
-                  <a href="#">FAQ's</a>
+                  <a href="#">FAQs</a>
                 </li>
                 <li>
                   <a href="#">Shipping & Returns</a>
