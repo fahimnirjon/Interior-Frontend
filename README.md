@@ -2,9 +2,9 @@
 
 This website where you can find art, paint and you also add your art and craft items and show the world your talent.
 
-Live Site URL: [Interior Freak]()
+Live Site URL: [Interior Freak](https://interior-freak.netlify.app/)
 
-<a href="">
+<a href="https://interior-freak.netlify.app/">
  
 </a>
 
