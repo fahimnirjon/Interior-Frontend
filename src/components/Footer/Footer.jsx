@@ -1,4 +1,3 @@
-import React from "react";
 import Logo from "../../assets/logo.png";
 import { FaPhone } from "react-icons/fa6";
 import { LuMessageSquare } from "react-icons/lu";
