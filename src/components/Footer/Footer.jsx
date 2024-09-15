@@ -34,7 +34,7 @@ const Footer = () => {
                   <a href="#">Designer</a>
                 </li>
                 <li>
-                  <a href="#">Craftmanship</a>
+                  <a href="#">CraftManship</a>
                 </li>
                 <li>
                   <a href="#">Sustainability</a>
