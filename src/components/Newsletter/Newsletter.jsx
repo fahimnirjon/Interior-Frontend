@@ -1,4 +1,3 @@
-import React from "react";
 import { delay, motion } from "framer-motion";
 import { SlideUp } from "../../animation/animate";
 
