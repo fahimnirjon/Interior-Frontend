@@ -1,4 +1,3 @@
-import React from "react";
 import { FaVectorSquare } from "react-icons/fa";
 import { FaPenToSquare } from "react-icons/fa6";
 import { BiSolidDollarCircle } from "react-icons/bi";
